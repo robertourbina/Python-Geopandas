@@ -1,1 +1,1 @@
-Example anout a Map of Mexico 
+Example about a Map of Mexico 
